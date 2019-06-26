@@ -1,0 +1,73 @@
+<div class="pricing">
+	 <div class="container">
+		 <div class="pricing-text">			
+			<h3>Our Customer Reviews</h3>
+			<span></span>	
+		 </div>
+		 <!-- start slider -->	
+		 <div class="pricing-grids">
+			 <div class="slider">
+				 <ul class="rslides" id="slider2">
+					 
+					
+					 
+					  <li>						    
+						 <div class="col-md-6 pricing-plans">
+							  <p>Customer 1 review.<br> This parking system is the best available parking system in the world.
+							  <br> These guys are really awesome!!!!!!!!</p>
+							  <div class="pic1">
+								 <img src="images/pr2.png" alt=""/>
+							  </div>
+							  <div class="pic-info">
+									<h5>John Doe</h5>
+									<a href="#">Mail id ,<br> address</a>
+							  </div>
+							  <div class="clearfix"></div>
+						 </div>	
+						  <div class="col-md-6 pricing-plans">
+							  <p>Customer 2 review.<br>that's my spot.com is really fantaaaastic. 
+							  <br>I got OMG feeling after using this. nowadays i use this app to park my kid's cycle also. hahaha</p>
+							  <div class="pic1">
+								 <img src="images/m2.jpg" alt=""/>
+							  </div>
+							  <div class="pic-info">
+									<h5>John Doe</h5>
+									<a href="#">Mail id ,<br> address</a>
+							  </div>
+							  <div class="clearfix"></div>
+						 </div>
+					      <div class="clearfix"></div>						  
+					  </li>
+					  <li>						 
+					     <div class="col-md-6 pricing-plans">
+							  <p>Customer 3 review.<br> that's my spot.com is really fantaaaastic. 
+							  <br>I got OMG feeling after using this. nowadays i use this app to park my kid's cycle also. hahaha</p>
+							  <div class="pic1">
+								 <img src="images/pr1.png" alt=""/>
+							  </div>
+							  <div class="pic-info">
+									<h5>John Doe</h5>
+									<a href="#">Mail id ,<br> address</a>
+							  </div>
+							  <div class="clearfix"></div>
+						 </div>
+						 <div class="col-md-6 pricing-plans">
+							  <p>Customer 4 review.<br>This parking system is the best available parking system in the world.
+							  <br> These guys are really awesome!!!!!!!!</p>
+							  <div class="pic1">
+								 <img src="images/pr2.png" alt=""/>
+							  </div>
+							  <div class="pic-info">
+									<h5>John Doe</h5>
+									<a href="#">Mail id ,<br> address</a>
+							  </div>
+							  <div class="clearfix"></div>
+						 </div>						
+					      <div class="clearfix"></div>						  
+					  </li>	
+				  </ul>
+			   </div>
+			   <!-- end slider -->
+		  </div>  	
+	 </div>
+</div>
